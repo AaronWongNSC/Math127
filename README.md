@@ -1,6 +1,3 @@
-# Math127
-Activities for MATH 127
+# Don't use this anymore
 
-I'm just using this as a way to share the files associated with the MATH 127 videos that I uploaded to YouTube.
-
-https://www.youtube.com/channel/UCBvO3V-CAyAaoQP3Ekd9ZDA
+Use this instead: https://github.com/AaronWongNSC/Trigonometry
